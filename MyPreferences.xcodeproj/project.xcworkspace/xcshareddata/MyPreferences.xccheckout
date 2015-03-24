@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>90F056D4-5415-4CB3-A772-7BB24630DE4F</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MyPreferences</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>96E778BAEF4A01C0D1D0EE6C4DEDAD85580F8F8F</key>
+		<string>https://github.com/Tallcool1/Week-10-Save-Load-Preferences-SWIFT.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MyPreferences.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>96E778BAEF4A01C0D1D0EE6C4DEDAD85580F8F8F</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Tallcool1/Week-10-Save-Load-Preferences-SWIFT.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>96E778BAEF4A01C0D1D0EE6C4DEDAD85580F8F8F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>96E778BAEF4A01C0D1D0EE6C4DEDAD85580F8F8F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Week-10-Save-Load-Preferences-SWIFT</string>
+		</dict>
+	</array>
+</dict>
+</plist>
